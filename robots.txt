@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Asi88com.github.io/resources-b8zdpn/sitemap.xml
